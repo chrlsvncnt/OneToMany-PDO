@@ -69,7 +69,7 @@
 		}
 	</style>
 <body>
-	<h1>Welcome To rice dealer Management System. Register now!</h1>
+	<h1>Welcome To Seasoning Shop!</h1>
 	<form action="core/handleForms.php" method="POST">
 		<p>
 			<label for="firstName">Customer Name</label> 
